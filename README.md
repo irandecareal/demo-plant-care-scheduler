@@ -1,2 +1,2 @@
 # demo-plant-care-scheduler
-project application plant 
+project application plant v2
